@@ -1,6 +1,12 @@
 ## Short-video dataset
 
-The full dataset of submission "**A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform**".
+The dataset and codes of submission "**A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform**".
+
+The full dataset is available at http://101.6.70.16:8080/ (**Username:** videodata **Password:** ShortVideo@10000).
+
+For convenient review, we also provide a sampled version at the link: https://www.dropbox.com/scl/fo/5z7pwp6xjkrr1926vreu6/AFYter5C6BDTOCpxkxF0k9Y?rlkey=p28j6u1fl1ubb7bufiq16onbl&st=7aktff85&dl=0.
+
+### The detailed introduction of dataset
 
 #### Main files
 
