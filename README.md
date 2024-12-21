@@ -22,6 +22,8 @@ For convenient review, we also provide a sampled version at the link: https://ww
 
 - **title_en:** Video title in English of each video with the format "video_id.txt".
 
+- **category_cn_en.csv:** 3-level video categories in both English and Chinese.
+
 #### Details of behavior data
 
 | **Field Name** | **Type** | **Description**                                                       | **Example** |
