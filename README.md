@@ -66,3 +66,14 @@ For convenient review, we also provide a sampled version at the link: https://ww
 |      fre_city      |   text   |       the city the user locates in        |    'Shanghai'     |
 | fre_community_type |   text   |           user’s residence type           |     'country'     |
 |   fre_city_level   |   text   |             user’s city level             | 'first-tier city' |
+
+
+### The detailed introduction of code files
+
+- **video_feature_process.py:** the code for extracting video visual features.
+
+- **text_feature_process.py:** the code for extracting video textual features from titles.
+
+- **sensevoice.py:** the code for extracting ASR texts from videos with SenseVoice model.
+
+
