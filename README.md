@@ -6,7 +6,7 @@ The full dataset is available at http://101.6.70.16:8080/ (**Username:** videoda
 
 For convenient review, we also provide a sampled version at the link: https://www.dropbox.com/scl/fo/5z7pwp6xjkrr1926vreu6/AFYter5C6BDTOCpxkxF0k9Y?rlkey=p28j6u1fl1ubb7bufiq16onbl&st=7aktff85&dl=0.
 
-### The detailed introduction of dataset
+### I. The detailed introduction of the dataset
 
 #### Main files
 
@@ -70,7 +70,7 @@ For convenient review, we also provide a sampled version at the link: https://ww
 |   fre_city_level   |   text   |             user’s city level             | 'first-tier city' |
 
 
-### The detailed introduction of code files
+### II. Codes for data processing
 
 - **video_feature_process.py:** the code for extracting video visual features.
 
@@ -78,4 +78,18 @@ For convenient review, we also provide a sampled version at the link: https://ww
 
 - **sensevoice.py:** the code for extracting ASR texts from videos with SenseVoice model.
 
+
+### III. Codes for running recommendation benchmarks
+
+1. Download the processed dataset for recommendations from the [link](https://www.dropbox.com/scl/fo/ha0e0wolgqgg5qskr52l1/AHZUySejwWJzfyJy8WGo2k4?rlkey=xwpqosx7b906yb7g8nwy53oqh&st=slry1d1l&dl=0).
+
+2. Set up environment according to [MMRec](https://github.com/enoche/MMRec).
+
+3. Put the 3 downloaded files in the 'data' folder and create a file named 'video.yaml' under 'src/configs/dataset/'.
+
+4. Run the recommendation algorithm.
+```
+cd src
+python main.py --dataset video
+```
 
