@@ -44,7 +44,15 @@ For convenient review, we also provide a sampled version at the link: https://ww
 
 #### Details of attribute data
 
-##### Video-side attribute data
+#### Video attributes:
+<p align="center">
+  <strong>Illustrative cases</strong>
+</p>
+
+<p align="center">
+  <img src="video-attribute.png" alt="intro" width="600">
+</p>
+
 
 |  **Field Name**   | **Type** |                       **Description**                        |          **Example**           |
 | :---------------: | :------: | :----------------------------------------------------------: | :----------------------------: |
@@ -58,7 +66,7 @@ For convenient review, we also provide a sampled version at the link: https://ww
 |     tag_name      |   text   |                     video’s content tag                      |    ’underwater photography’    |
 |       title       |   text   |                      title of the video                      | ’Catch lobsters under the sea’ |
 
-##### User-side attribute data
+#### User attributes:
 
 |   **Field Name**   | **Type** |              **Description**              |    **Example**    |
 | :----------------: | :------: | :---------------------------------------: | :---------------: |
