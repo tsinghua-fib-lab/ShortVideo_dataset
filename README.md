@@ -1,4 +1,7 @@
 ## Short-video dataset
+<p align="center">
+  <img src="overview.png" alt="intro" width="900">
+</p>
 
 The dataset and codes of submission "**A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform**".
 
