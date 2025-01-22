@@ -3,7 +3,7 @@
   <img src="overview.png" alt="intro" width="800">
 </p>
 
-The dataset and codes of the paper "**A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform" (WWW 2025)**.
+The dataset of the paper "**A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform" (WWW 2025)**.
 
 The full dataset is available at http://101.6.70.16:8080/ (**Username:** videodata **Password:** ShortVideo@10000).
 
