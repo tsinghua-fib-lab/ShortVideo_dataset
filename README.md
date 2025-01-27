@@ -1,4 +1,4 @@
-## Short-video dataset
+## Short-video dataset (WWW 2025)
 <p align="center">
   <img src="overview.png" alt="intro" width="800">
 </p>
