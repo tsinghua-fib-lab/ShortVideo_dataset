@@ -104,3 +104,15 @@ cd src
 python main.py --dataset video
 ```
 
+## Citations
+Please considering citing our paper and staring this repo if you use the dataset and find it useful :)
+
+```bibtex
+@article{shang2025large,
+  title={A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform},
+  author={Shang, Yu and Gao, Chen and Li, Nian and Li, Yong},
+  journal={arXiv preprint arXiv:2502.05922},
+  year={2025}
+}
+```
+
