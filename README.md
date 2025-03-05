@@ -17,7 +17,7 @@ For convenient view, we also provide a sampled version at the link: https://www.
 
 - **video\_feature\_total:** the folder containing all extracted visual features with the format "video_id.npy".
 
-- **interaciton.csv:** the file containing all behavior data and attribute data.
+- **interaciton_filtered.csv:** the file containing all behavior data and attribute data.
 
 - **asr_zn:** ASR text in Chinese of each video with the format "video_id.txt".
 
