@@ -108,10 +108,11 @@ python main.py --dataset video
 Please considering citing our paper and staring this repo if you use the dataset and find it useful :)
 
 ```bibtex
-@article{shang2025large,
+@inproceedings{shang2025large,
   title={A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform},
   author={Shang, Yu and Gao, Chen and Li, Nian and Li, Yong},
-  journal={arXiv preprint arXiv:2502.05922},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={793--796},
   year={2025}
 }
 ```
