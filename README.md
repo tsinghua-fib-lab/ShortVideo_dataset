@@ -9,6 +9,10 @@ The full dataset is available at http://fi.ee.tsinghua.edu.cn/datasets/short-vid
 
 For convenient view, we also provide a sampled version at the link: https://www.dropbox.com/scl/fo/5z7pwp6xjkrr1926vreu6/AFYter5C6BDTOCpxkxF0k9Y?rlkey=p28j6u1fl1ubb7bufiq16onbl&st=7aktff85&dl=0.
 
+**📢 Download Concurrency Policy Update**
+
+To optimize the downloading of the extensive dataset, and due to server network regulations, we have introduced a new concurrency policy. You can now download .txt files with unlimited concurrent connections for a dramatically faster experience, while other larger file formats remain limited to **3 connections** to ensure download stability.
+
 ### I. The detailed introduction of the dataset
 
 #### Main files
