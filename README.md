@@ -5,9 +5,9 @@
 
 The dataset of the paper [A Large-scale Dataset with Behavior, Attributes, and Content of Mobile Short-video Platform](https://arxiv.org/pdf/2502.05922).
 
-The full dataset is available at http://fi.ee.tsinghua.edu.cn/datasets/short-video-dataset (**Username:** videodata **Password:** ShortVideo@10000).
+A sampled dataset is available at http://fi.ee.tsinghua.edu.cn/datasets/short-video-dataset (**Username:** videodata **Password:** ShortVideo@10000).
 
-For convenient view, we also provide a sampled version at the link: https://www.dropbox.com/scl/fo/5z7pwp6xjkrr1926vreu6/AFYter5C6BDTOCpxkxF0k9Y?rlkey=p28j6u1fl1ubb7bufiq16onbl&st=7aktff85&dl=0.
+For convenient view, we also provide a tiny version at the link: https://www.dropbox.com/scl/fo/5z7pwp6xjkrr1926vreu6/AFYter5C6BDTOCpxkxF0k9Y?rlkey=p28j6u1fl1ubb7bufiq16onbl&st=7aktff85&dl=0.
 
 **📢 Download Concurrency Policy Update**
 
